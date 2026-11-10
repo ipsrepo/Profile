@@ -2,23 +2,34 @@
 # Prakash Thangaraj
 ### Senior Full-Stack Engineer | React | TypeScript | Node.js | Python
 
+<div align="right">
+  <img
+    src="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/profile.jpg"
+    alt="Prakash"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</div>
+
 **Building scalable, high-performance web applications and enterprise digital solutions.**
 
 📍 Dublin, Ireland  
 📧 [mailfromprakash@gmail.com](mailto:mailfromprakash@gmail.com)  
 📞 +353 894750501
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prakaships/" target="_blank">
+
+<p style="display: flex; flex-direction: column">
+  <a style="font-size: 30px" href="https://www.linkedin.com/in/prakaships/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ipsrepo" target="_blank">
+  <a style="font-size: 30px" href="https://github.com/ipsrepo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://prakasht.netlify.app/" target="_blank">
+  <a style="font-size: 30px" href="https://prakasht.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/Prakash_Thangaraj_Resume.pdf">
+  <a style="font-size: 30px" href="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/Prakash_Thangaraj_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
