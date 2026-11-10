@@ -2,16 +2,6 @@
 # Prakash Thangaraj
 ### Senior Full-Stack Engineer | React | TypeScript | Node.js | Python
 
-<div align="right">
-  <img
-    src="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/profile.jpg"
-    alt="Prakash"
-    width="150"
-    height="150"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</div>
-
 **Building scalable, high-performance web applications and enterprise digital solutions.**
 
 📍 Dublin, Ireland  
