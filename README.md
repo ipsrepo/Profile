@@ -9,16 +9,13 @@
 📞 +353 894750501
 
 
-<p style="display: flex; flex-direction: column">
+<p>
   <a style="font-size: 30px" href="https://www.linkedin.com/in/prakaships/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a style="font-size: 30px" href="https://github.com/ipsrepo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a style="font-size: 30px" href="https://prakasht.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+</p>
+
+<p>
   <a style="font-size: 30px" href="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/Prakash_Thangaraj_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
@@ -61,7 +58,7 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 
 ## Professional Experience
 
-### Senior Digital Engineer — Digitide Solutions (Conneqt Business)
+### Senior Digital Engineer - Digitide Solutions (Conneqt Business)
 **April 2024 – January 2026**
 
 - Developed enterprise applications for global clients, including T-Mobile and Maruti Suzuki.
@@ -73,7 +70,7 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 - Ensured WCAG 2.1 AA accessibility compliance.
 - Mentored junior developers and contributed to architectural decisions and code reviews.
 
-### Software Development Engineer — Optum (EMIS Health)
+### Software Development Engineer - Optum (EMIS Health)
 **September 2023 – January 2024**
 
 - Enhanced the Extract Builder application for UK NHS healthcare reporting workflows.
@@ -82,7 +79,7 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 - Optimized application and query performance using Cohort Builder Kit, Query Manager, and Query Builder Library.
 - Improved query performance by **35%**.
 
-### Software Programmer — MindPro Technologies
+### Software Programmer - MindPro Technologies
 **April 2014 – September 2023**
 
 - Delivered **12+ production-ready web applications and chatbots** using React, Angular, Node.js, and Express.js.
@@ -97,7 +94,7 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 
 ## Featured Projects
 
-### 1. Taskmo App — Multi-Dashboard Platform
+### 1. Taskmo App - Multi-Dashboard Platform
 **Quess Corp | React, Node.js, Express.js, Redux, MySQL**
 
 - Developed a full-stack task management platform with Admin, User, and Retailer dashboards.
@@ -121,7 +118,7 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 - Implemented PubSub patterns for cross-repository data synchronization.
 - Applied Docker and Git Guardian security practices.
 
-### 4. Matrix eServices — Insurance Platform
+### 4. Matrix eServices - Insurance Platform
 **Angular, TypeScript, NGRX, PrimeNG, REST APIs, Azure DevOps**
 
 - Developed insurance eClaim and eService applications.
@@ -151,8 +148,8 @@ Currently based in **Ireland**, I am interested in opportunities across Full-Sta
 
 ## Education & Certifications
 
-- **MSc in Information Systems with Computing** — Dublin Business School, Ireland
-- **Bachelor of Engineering in Computer Science** — 2013
+- **MSc in Information Systems with Computing** - Dublin Business School, Ireland
+- **Bachelor of Engineering in Computer Science** - 2013
 - HackerRank Frontend Developer (React) Certificate
 - Advanced JavaScript Mastery Certificate
 - Advanced React Complete Guide Certificate
