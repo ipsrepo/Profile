@@ -1,111 +1,164 @@
+
 # Prakash Thangaraj
+### Senior Full-Stack Engineer | React | TypeScript | Node.js | Python
 
-**Front-End Developer**
+**Building scalable, high-performance web applications and enterprise digital solutions.**
 
-📍 India | 📞 +91 8870690977 | 📧 [mailfromprakash@gmail.com](mailto:mailfromprakash@gmail.com)
+📍 Dublin, Ireland  
+📧 [mailfromprakash@gmail.com](mailto:mailfromprakash@gmail.com)  
+📞 +353 894750501
 
-🌐 [LinkedIn](https://www.linkedin.com/in/prakaships/) |  [GitHub](https://github.com/ipsrepo) | [Dribbble](https://dribbble.com/PrakashIPS)
-
----
-
-## 📋 Summary
-
-Frontend Developer with over **10 years** of experience in building high-performance web applications and **5+ years** in UI/UX design. Proficient in **JavaScript, React, Angular, TypeScript, UI/UX**, and **API integration**.
-
-Skilled in problem-solving and cross-functional collaboration, delivering scalable solutions that enhance user experience. Experienced in Agile environments, leading teams, mentoring developers, and ensuring high-quality, maintainable code.
-
-Seeking **front-end development opportunities** in **Ireland and Europe**. Open to relocation and eligible to obtain required work permits.
+[LinkedIn](https://www.linkedin.com/in/prakaships/) · [GitHub](https://github.com/ipsrepo) · [Portfolio](https://prakasht.netlify.app/)
 
 ---
 
-## 💡 Skills & Expertise
+## About Me
 
-**Frontend Development**: JavaScript, TypeScript, HTML5, CSS3, SCSS
+I am a **Senior Full-Stack Engineer with 10+ years of experience** designing, developing, and delivering scalable web applications and enterprise software solutions.
 
-**Frameworks & Libraries**: React, Angular, Hooks, Redux, Thunk, Saga, NGRX, RXJS, Alpine.js, TailwindCSS, Bootstrap, PrimeNG
+My core expertise includes **JavaScript, TypeScript, React, Angular, Node.js, and Express.js**, with hands-on experience in API development, database integration, microservices architecture, and cloud-based solutions.
 
-**API Integration & Microservices**: REST APIs, GraphQL, Swagger, Microservices Architecture
+Throughout my career, I have worked with enterprise clients and technology teams across healthcare, telecommunications, automotive, and insurance domains, including projects for **Adobe, T-Mobile, NHS, and Maruti Suzuki**.
 
-**Testing & Tools**: Jest, React Testing Library, Cypress, Jasmine, Karma, TDD, Docker, GG Shield
+I enjoy solving complex engineering problems, building reusable architectures, improving application performance, and developing maintainable solutions. I also have experience leading engineering teams, mentoring developers, conducting code reviews, and working in Agile environments.
 
-**Version Control & CI/CD**: GitHub, Bitbucket, GitLab, Azure DevOps, Bamboo
-
-**Soft Skills**: Interdepartmental Coordination, Mentorship, Code Review, User Experience
+Currently based in **Ireland**, I am interested in opportunities across Full-Stack Engineering, Frontend Engineering, and Software Architecture.
 
 ---
 
-## 💼 Work Experience
+## Technical Skills
 
-### Senior Frontend Developer - Conneqt Business Solutions (Adobe)
-*Apr 2024 – Present*
-- Developed controllers, mappers, and components using **TypeScript** and **Alpine.js** for seamless integration with **AEM** and **GraphQL APIs**.
-- Effective collaboration between **front-end, AEM**, and architects.
--	Attended **code quality** sessions to deepen understanding of best practices and optimized performance through strategic problem-solving.
--	Achieved **95% code coverage** with **Jest** and ensured high-quality code. Conducted **accessibility** testing with NVIDIA tools for inclusive, user-friendly applications.
--	Provided mentorship to junior developers, conducted code reviews, and ensured adherence to best practices while maintaining **code security** using **Git Guardian**.
-
-
-### Lead Frontend Engineer - EMIS Health (UK)
-*Sep 2023 – Jan 2024*
-- Enhanced the Extract Builder application for **UK NHS**, streamlining data querying and reporting.
-- Created advanced search features for healthcare data analysis using **React** and **Redux**.
-- Generated advanced search features and robust report generation for comprehensive **healthcare** data analysis.
--	Managed **clinical** and **ethnicity codes**, ensuring accurate and compliant data handling for government reports.
--	Refined application functionality using the **Cohort-builder-kit**, **Query Manager**, and Query Builder Library for seamless integration.
-
-### Lead Frontend Developer & UI/UX Expert - MindPro Technologies
-*Apr 2014 – Sep 2023*
-- Delivered **10+ apps**, and chatbots using **React**, **Angular**, **JavaScript**, **HTML5**, **CSS3**, and **SCSS** with expertise in **Redux**, **NGRX**, and **RXJS** for state management while managing multiple projects simultaneously.
--	Integrated **REST APIs** with front-end applications and documented APIs using **Swagger** for seamless backend communication and API management.
--	**Led UI/UX design**, built **50+ user-centric**, responsive interfaces focused on enhancing **user experience** using **Adobe XD**, **Photoshop**, and **Illustrator**, with select designs showcased on **[Dribbble](https://dribbble.com/PrakashIPS)**.
--	Ensured code quality through **TDD**, unit testing with Jest, Jasmin, Karma, and React Testing Library, maintaining good code coverage, and collaborated via **GitHub**, **Bitbucket**, and Azure DevOps.
--	Managed projects using **Agile** (Scrum) methodologies, collaborating with Inter-Team Cooperation and conducting **code reviews** to drive performance and ensure best practices.
+| Category | Technologies |
+|---|---|
+| Languages | JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SCSS |
+| Frontend | React.js, React Native, Angular, Preact, Alpine.js |
+| State Management | Redux, Redux Thunk, Redux Saga, NGRX, RXJS |
+| UI & Styling | Tailwind CSS, Bootstrap, PrimeNG, Formik |
+| Backend | Node.js, Express.js, REST APIs, GraphQL |
+| Databases | MongoDB, MySQL |
+| Adobe Technologies | Adobe Experience Manager (AEM), Edge Delivery Services (EDS), CRX |
+| Testing | Jest, React Testing Library, Cypress, Jasmine, Karma, TDD |
+| Cloud & DevOps | AWS, Docker, Terraform, GitHub Actions, CI/CD |
+| Tools | GitHub, GitLab, Bitbucket, Azure DevOps, Jira, Swagger |
+| Quality & Security | WCAG 2.1/2.2, Lighthouse, GDPR, Git Guardian |
 
 ---
 
-## 🚀 Projects
+## Professional Experience
 
-### T-Mobile (US Based) - Conneqt Business Solutions
-*Apr 2024 – Present*
-- Created dynamic components with **TypeScript** and **Alpine.js**, unified with **AEM** via **GraphQL**.
--	Ensured code security with GG Shield.
--	Utilized **Docker** for environment management and CRX package manager for handle AEM packages.
+### Senior Digital Engineer — Digitide Solutions (Conneqt Business)
+**April 2024 – January 2026**
 
+- Developed enterprise applications for global clients, including T-Mobile and Maruti Suzuki.
+- Built frontend solutions using JavaScript, TypeScript, Alpine.js, and Preact.
+- Integrated Adobe Experience Manager (AEM) and Edge Delivery Services with REST and GraphQL APIs.
+- Improved page load performance by **40%** through DOM optimization, event handling, and API data-fetching strategies.
+- Achieved **95% Jest test coverage** and implemented automated testing and CI/CD pipelines.
+- Applied Docker, GitHub Actions, and Git Guardian for deployment automation and code security.
+- Ensured WCAG 2.1 AA accessibility compliance.
+- Mentored junior developers and contributed to architectural decisions and code reviews.
 
-### Extract Builder / Feasibility Service - EMIS Health
-*Sep 2023 – Jan 2024*
-- Built advanced query features with **React (TypeScript)**, **Redux**, and **REST APIs**.
--	Constructed features for search creation, allowing doctors to filter datasets based on various criteria.
+### Software Development Engineer — Optum (EMIS Health)
+**September 2023 – January 2024**
 
-### Matrix eServices (US Based) - MindPro Technologies
-*Mar 2019 – Sep 2023*
-- Built insurance eClaim projects using **Angular, PrimeNG, NGRX**, and **RXJS**.
--	Build multi repo level components, modal, mock data and Templates, used ADO for agile and **CI/CD**.
+- Enhanced the Extract Builder application for UK NHS healthcare reporting workflows.
+- Developed advanced search and data-querying features using React, TypeScript, Redux, and REST APIs.
+- Worked with clinical and ethnicity code systems, ensuring accurate and GDPR-compliant data processing.
+- Optimized application and query performance using Cohort Builder Kit, Query Manager, and Query Builder Library.
+- Improved query performance by **35%**.
 
-### Time Tracker
-*Apr 2022 – Mar 2023*
--	Crafted a user-friendly web app for tracking employee activity using **React, Redux Tool Kit, TailwindCSS** and **REST**. 
--	Solely responsible for managing the entire front-end development.
+### Software Programmer — MindPro Technologies
+**April 2014 – September 2023**
 
-### Assistance Chatbot
-*Apr 2018 – Mar 2022*
--	Built a multi-language chatbot with voice recognition and voice playback features using **Angular** and Synthesized with **REST APIs**.
--	Generated chart for leave planner using JavaScript to calculate and display user data, achieving functionality without relying on external libraries.
-
----
-
-## 🎓 Education & Certifications
-
-- **Bachelor of Engineering (Computer Science)** – Apr 2013
-- **LinkedIn Learning**: GitHub – Oct 2023 - **[Credentials](https://www.linkedin.com/learning/certificates/1ee50a419443c0b38437735200334bfce910ab03d2673c2e2566225f8ae3a8f4)**
-- **Udemy**: Advanced JavaScript – Nov 2024 - **[Credentials](https://www.udemy.com/certificate/UC-ddbdc681-73b6-43ee-b812-4fb21bac0895/)**
-- **Simplilearn.**: Javascript Coding Interview Preparation– Dec 2024 - **[Credentials](https://simpli-web.app.link/e/SfiZt9rcfPb)**
+- Delivered **12+ production-ready web applications and chatbots** using React, Angular, Node.js, and Express.js.
+- Developed reusable component libraries, REST API services, and design systems, reducing development time by **30%**.
+- Integrated MongoDB and MySQL for backend data management.
+- Designed and documented APIs using Swagger.
+- Implemented Test-Driven Development using Jest, Jasmine, Karma, and React Testing Library.
+- Maintained 85%+ code coverage across projects.
+- Led Agile Scrum activities, conducted code reviews, and mentored 5+ developers.
 
 ---
 
-## 🎨 UI Works
+## Featured Projects
 
-- [MindProTech](https://mindprotech.com/)
-- [CanString](https://canstring.ai/)
-- [AC InfoTech](https://acinfotech.com/)
+### 1. Taskmo App — Multi-Dashboard Platform
+**Quess Corp | React, Node.js, Express.js, Redux, MySQL**
+
+- Developed a full-stack task management platform with Admin, User, and Retailer dashboards.
+- Built reusable React components and centralized state management using Redux.
+- Integrated Node.js and Express.js backend services with MySQL.
+- Supported a platform serving **10,000+ active users**.
+
+### 2. Maruti Suzuki Digital Platform
+**JavaScript, Preact, Adobe Edge Delivery Services, REST APIs, Jest**
+
+- Developed dynamic automotive web experiences using JavaScript and Preact.
+- Integrated Adobe Edge Delivery Services and REST APIs.
+- Implemented custom event systems and advanced DOM manipulation.
+- Built interactive components for vehicle and inventory data.
+
+### 3. T-Mobile Enterprise Solution
+**TypeScript, Alpine.js, AEM, GraphQL, Docker**
+
+- Developed scalable frontend components using TypeScript and Alpine.js.
+- Integrated Adobe Experience Manager with GraphQL APIs.
+- Implemented PubSub patterns for cross-repository data synchronization.
+- Applied Docker and Git Guardian security practices.
+
+### 4. Matrix eServices — Insurance Platform
+**Angular, TypeScript, NGRX, PrimeNG, REST APIs, Azure DevOps**
+
+- Developed insurance eClaim and eService applications.
+- Built reusable components across multiple repositories.
+- Implemented state management using NGRX and RXJS.
+- Integrated backend services and automated deployment pipelines.
+
+### 5. AI-Powered Assistance Chatbot
+**Angular, TypeScript, Node.js, REST APIs, Speech API**
+
+- Developed a multilingual chatbot with voice recognition and speech synthesis.
+- Integrated REST APIs for conversational workflows.
+- Implemented voice-activated surveys and maternity benefit calculations.
+- Created custom JavaScript data visualizations without external chart libraries.
+
+---
+
+## Engineering Focus
+
+- **Frontend Architecture:** Reusable components, scalable UI architecture, state management, and design systems.
+- **Backend Development:** REST APIs, GraphQL, Node.js, Express.js, and database integration.
+- **Performance Engineering:** DOM optimization, efficient rendering, API optimization, and accessibility.
+- **Software Quality:** TDD, automated testing, code reviews, CI/CD, and secure development.
+- **Technical Leadership:** Mentoring, architecture discussions, Agile delivery, and cross-functional collaboration.
+
+---
+
+## Education & Certifications
+
+- **MSc in Information Systems with Computing** — Dublin Business School, Ireland
+- **Bachelor of Engineering in Computer Science** — 2013
+- HackerRank Frontend Developer (React) Certificate
+- Advanced JavaScript Mastery Certificate
+- Advanced React Complete Guide Certificate
+- AI-Powered Summarisation & Research Certificate
+
+---
+
+## Design & UI Work
+
+I also have a background in UI/UX design, with experience creating user-centric interfaces and design systems.
+
+- [Portfolio](https://prakasht.netlify.app/)
+- [Dribbble](https://dribbble.com/PrakashIPS)
 - [Behance](https://behance.net/prakash_IPS)
+
+---
+
+## Connect With Me
+
+I am interested in connecting with engineering professionals, recruiters, and technology teams working on challenging software engineering problems.
+
+**Areas of interest:** Full-Stack Engineering · Frontend Architecture · React · Node.js · TypeScript · Software Architecture
+
+[LinkedIn](https://www.linkedin.com/in/prakaships/) | [GitHub](https://github.com/ipsrepo) | [Portfolio](https://prakasht.netlify.app/)
