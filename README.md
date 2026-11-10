@@ -8,7 +8,21 @@
 📧 [mailfromprakash@gmail.com](mailto:mailfromprakash@gmail.com)  
 📞 +353 894750501
 
-[LinkedIn](https://www.linkedin.com/in/prakaships/) · [GitHub](https://github.com/ipsrepo) · [Portfolio](https://prakasht.netlify.app/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/prakaships/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ipsrepo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://prakasht.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ipsrepo/ipsrepo/raw/refs/heads/main/Prakash_Thangaraj_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
 
 ---
 
